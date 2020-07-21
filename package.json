@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ochukochris/video-stream-sample/issues"
   },
-  "homepage": "https://github.com/ochukochris/video-stream-sample#readme"
+  "homepage": "https://github.com/ochukochris/video-stream-sample#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
